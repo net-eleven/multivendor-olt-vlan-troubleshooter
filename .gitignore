@@ -1,0 +1,7 @@
+# Ignore real client database (Protect client privacy & network IPs!)
+clients.csv
+
+
+# Ignore Python 2.7 compiled bytecode
+*.pyc
+__pycache__/
